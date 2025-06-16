@@ -127,4 +127,8 @@ Microsoft (2023) proposed a framework for gradually increasing AI automation in 
 2. Walk means AI can directly interact with internal employees.
 3. Run means increased automation, potentially including direct AI interactions with external users.
 
-### How do models disclose their training data?
+### 17. How do models disclose their training data?
+
+
+### 18. Prompt Engineering
+Process of writing effective instructions for a model. Because the content generated from a model is non-deterministic, it is a combination of art and science to build a prompt that will generate content in the format you want. 
