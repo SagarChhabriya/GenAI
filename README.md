@@ -8,3 +8,4 @@
 5. Course: [Gen AI For Developers](https://www.youtube.com/watch?v=F0GQ0l2NfHA)
 6. Course: [Code DeepSeek V3 From Scratch in Python - Full Course](https://www.youtube.com/watch?v=5avSMc79V-w)
 7. Course: [Generative AI from Basic to Advance by Sunny Savita](https://www.youtube.com/playlist?list=PLQxDHpeGU14AIu52l2OlIJs9z94yTFR_t)
+8. [100+ Top DeepLearning.AI Online Courses](https://www.classcentral.com/institution/deeplearning-ai) ✨
