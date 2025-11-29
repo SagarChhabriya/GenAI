@@ -11,6 +11,9 @@
 8. [100+ Top DeepLearning.AI Online Courses](https://www.classcentral.com/institution/deeplearning-ai) ✨
 
 
+<img width="800" height="1057" alt="image" src="https://github.com/user-attachments/assets/68e5ec99-5c86-4cdf-9cb2-8bb9ccb9989a" />
+
+
 
 
 ### Repos
