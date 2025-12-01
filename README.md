@@ -10,15 +10,22 @@
 7. Course: [Generative AI from Basic to Advance by Sunny Savita](https://www.youtube.com/playlist?list=PLQxDHpeGU14AIu52l2OlIJs9z94yTFR_t)
 8. [100+ Top DeepLearning.AI Online Courses](https://www.classcentral.com/institution/deeplearning-ai) ✨
 
-
-<img width="800" height="1057" alt="image" src="https://github.com/user-attachments/assets/68e5ec99-5c86-4cdf-9cb2-8bb9ccb9989a" />
-
-
-
-
 ### Repos
 - https://github.com/microsoft/generative-ai-for-beginners/blob/main/README.md
 - https://github.com/panaverse/learn-generative-ai
 - https://github.com/Yash-Kavaiya/GenAI-Learning
 - https://github.com/NirDiamant/GenAI_Agents
   
+
+---
+
+<img width="800" height="1105" alt="image" src="https://github.com/user-attachments/assets/d7b0b690-fe2a-4ef8-9670-1a65fcc8abce" />
+
+---
+
+<img width="800" height="1057" alt="image" src="https://github.com/user-attachments/assets/68e5ec99-5c86-4cdf-9cb2-8bb9ccb9989a" />
+
+
+
+
+
